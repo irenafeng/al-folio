@@ -1,9 +1,9 @@
 "Young":
-  - firstname: ["Michael", "M", "MW", "Michael W Young", "Michael Young"]
+  - firstname: ["Michael", "M.", "M.W.", "Michael W. Young", "Michael Young"]
     url: https://www.wikiwand.com/en/Michael_W._Young
 
 "Zhang":
-  - firstname: ["Xiaochang", "X", "XC", "Xiaochang Zhang"]
+  - firstname: ["Xiaochang", "X.", "Xiaochang Zhang"]
     url: https://www.zhanglaboratory.org
 
 # Commented out original coauthors
