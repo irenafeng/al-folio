@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: she/her • <a href="https://www.bumc.bu.edu/mdphd">BUSM MD-PhD • <a href="https://bit.ly/irenafeng-CV">CV
 
 profile:
   align: right
@@ -21,4 +21,4 @@ Hi! I'm an MD-PhD student at Boston University School of Medicine (started Augus
 
 My primary research interests lie in the interplay between neurodevelopment and neurodegeneration, approaching this dynamic from a molecular and structural perspective. By exploring these processes as two sides of the same coin in the brain, I want to further study the mechanisms that define how they connect on a broader level to large-scale behaviors such as sleep.
 
-You can find my CV [here](https://bit.ly/irenafeng-CV), and my contact info below!
+You can find my CV above and [here](https://bit.ly/irenafeng-CV), and my contact info below!
