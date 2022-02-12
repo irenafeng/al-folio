@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Boston University School of Medicine</p>
-    <p>Boston, MA, USA</p>
+    <p></p>
+    <p></p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
