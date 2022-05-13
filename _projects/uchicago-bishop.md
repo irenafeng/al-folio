@@ -6,8 +6,7 @@ importance: 4
 category: research
 ---
 
-**PI:** Dr. Douglas K Bishop
-**Duration:** September 2016 - May 2018
+**Dr. Douglas K Bishop**, September 2016 - May 2018
 
 I worked as a research assistant in the Bishop Lab at the University of Chicago. My project focused on identifying small molecules that affect CRISPR/Cas9 gene knock-in efficiency. Some skills I've developed in my time here include different areas of tissue culture, flow cytometry, and various methods in gene targeting.
 
