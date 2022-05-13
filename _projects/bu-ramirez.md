@@ -1,14 +1,15 @@
 ---
 layout: page
 title: lung development
-description: Boston University, Dr. Maria Ramirez
+description: Summer Intern, Boston University
 importance: 5
 category: research
 ---
 
-This research internship matched high school students with mentors in different labs, and I was placed in the Ramirez Lab at Boston University. My primary role in this lab was to confirm whether a certain gene was knocked out in a mutant mouse model. In order to achieve this, I determined the genotypes of the mice through PCR and gel electrophoresis. After determining the genotypes of the parent mice, I used fluorescent immunohistochemistry to analyze the lungs of mice embryos at different stages of development, and confirm gene knockout.
-
+**PI:** Dr. Maria Ramirez
 **Duration:** June 2014 - August 2014
+
+This research internship matched high school students with mentors in different labs, and I was placed in the Ramirez Lab at Boston University. My primary role in this lab was to confirm whether a certain gene was knocked out in a mutant mouse model. In order to achieve this, I determined the genotypes of the mice through PCR and gel electrophoresis. After determining the genotypes of the parent mice, I used fluorescent immunohistochemistry to analyze the lungs of mice embryos at different stages of development, and confirm gene knockout.
 
 
 ### Presentations
