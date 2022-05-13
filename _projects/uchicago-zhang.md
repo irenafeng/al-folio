@@ -1,14 +1,15 @@
 ---
 layout: page
 title: developmental neuroscience
-description: University of Chicago, Dr. Xiaochang Zhang
+description: Research Assistant, University of Chicago
 importance: 2
 category: research
 ---
 
-I worked as a research assistant in the Zhang Lab at the University of Chicago. My project focused on genes involved in neural development, and how mutations in certain genes may be related to autism spectrum disorders. Primarily, I sought to characterize how cytoskeletal proteins impact neuronal structure and development.
-
+**PI:** Dr. Xiaochang Zhang
 **Duration:** June 2018 - June 2019
+
+I worked as a research assistant in the Zhang Lab at the University of Chicago. My project focused on genes involved in neural development, and how mutations in certain genes may be related to autism spectrum disorders. Primarily, I sought to characterize how cytoskeletal proteins impact neuronal structure and development.
 
 
 ### Publications
