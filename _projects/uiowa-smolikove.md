@@ -1,14 +1,14 @@
 ---
 layout: page
 title: DNA repair
-description: University of Iowa, Dr. Sarit Smolikove
+description: Summer Intern, University of Iowa
 importance: 6
 category: research
 ---
 
-This research internship matched high school students with mentors in different labs, and I was placed in the Smolikove Lab at the University of Iowa. My primary role in this lab was to assist in a forward genetic screen to locate potential genes involved in alternate DNA repair pathways in *C. elegans*. I used RNA interference to target specific genes in order to achieve desired phenotypes. Additionally, for previously confirmed genes that could partially rescue embryonic lethality, I analyzed chromosome structure in oocytes using DAPI staining.
+**Dr. Sarit Smolikove**, June 2013 - August 2013
 
-**Duration:** June 2013 - August 2013
+This research internship matched high school students with mentors in different labs, and I was placed in the Smolikove Lab at the University of Iowa. My primary role in this lab was to assist in a forward genetic screen to locate potential genes involved in alternate DNA repair pathways in *C. elegans*. I used RNA interference to target specific genes in order to achieve desired phenotypes. Additionally, for previously confirmed genes that could partially rescue embryonic lethality, I analyzed chromosome structure in oocytes using DAPI staining.
 
 
 ### Presentations
