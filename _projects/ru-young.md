@@ -1,14 +1,15 @@
 ---
 layout: page
 title: circadian rhythm
-description: Rockefeller University, Dr. Michael W Young
+description: Research Assistant, Rockefeller University
 importance: 3
 category: research
 ---
 
-I worked as a research assistant in the Young Lab at Rockefeller University. I sought to characterize interactions between key clock proteins in circadian rhythm. In my work with an undergraduate course at Hunter College, I also assisted in prepping materials for the course and connecting genetic alleles to sleep disorders, chronotypes, and cell-autonomous circadian clocks.
-
+**PI:** Dr. Michael W Young
 **Duration:** June 2019 - May 2021
+
+I worked as a research assistant in the Young Lab at Rockefeller University. I sought to characterize interactions between key clock proteins in circadian rhythm. In my work with an undergraduate course at Hunter College, I also assisted in prepping materials for the course and connecting genetic alleles to sleep disorders, chronotypes, and cell-autonomous circadian clocks.
 
 
 ### Publications
