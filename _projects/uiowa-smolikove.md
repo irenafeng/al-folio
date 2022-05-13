@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DNA repair
-description: Summer Intern, University of Iowa
+description: University of Iowa, Summer Intern
 importance: 6
 category: research
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: developmental neuroscience
-description: Research Assistant, University of Chicago
+description: University of Chicago, Research Assistant
 importance: 2
 category: research
 ---

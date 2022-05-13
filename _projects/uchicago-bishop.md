@@ -1,7 +1,7 @@
 ---
 layout: page
 title: gene editing
-description: Research Assistant, University of Chicago
+description: University of Chicago, Research Assistant
 importance: 4
 category: research
 ---

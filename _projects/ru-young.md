@@ -1,7 +1,7 @@
 ---
 layout: page
 title: circadian rhythm
-description: Research Assistant, Rockefeller University
+description: Rockefeller University, Research Assistant
 importance: 3
 category: research
 ---

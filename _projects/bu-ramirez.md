@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lung development
-description: Summer Intern, Boston University
+description: Boston University, Summer Intern
 importance: 5
 category: research
 ---
