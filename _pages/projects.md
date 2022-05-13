@@ -5,7 +5,7 @@ permalink: /projects/
 description: portfolio of projects, scientific or otherwise.
 nav: true
 nav_order: 3
-display_categories: [work, graphic design]
+display_categories: [research, graphic design]
 horizontal: false
 ---
 
@@ -57,8 +57,6 @@ horizontal: false
 {%- endif -%}
 </div>
 
-
-Small graphics made to advertise events. Created using Adobe Creative Cloud, Canva, or Microsoft Office.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
