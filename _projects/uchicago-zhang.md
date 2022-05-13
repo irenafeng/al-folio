@@ -6,8 +6,7 @@ importance: 2
 category: research
 ---
 
-**PI:** Dr. Xiaochang Zhang
-**Duration:** June 2018 - June 2019
+**Dr. Xiaochang Zhang**, June 2018 - June 2019
 
 I worked as a research assistant in the Zhang Lab at the University of Chicago. My project focused on genes involved in neural development, and how mutations in certain genes may be related to autism spectrum disorders. Primarily, I sought to characterize how cytoskeletal proteins impact neuronal structure and development.
 
