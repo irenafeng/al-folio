@@ -60,16 +60,29 @@ horizontal: false
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/graphic-scomsaski22.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/graphic-NeuroKickoff22.png" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/graphic-medmand22-MovieScreening.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/graphic-medmand22-MovieDiscussion.png" class="img-fluid rounded z-depth-1" %}
+  </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.html path="assets/img/graphic-smigpisani.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.html path="assets/img/graphic-neurosports22.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
+</div>
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/graphic-scomsaski22.jpg" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="row">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.html path="assets/img/graphic-neuromatch22.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
