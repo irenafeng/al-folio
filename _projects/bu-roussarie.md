@@ -1,14 +1,16 @@
 ---
 layout: page
 title: selective neurodegeneration
-description: Boston University School of Medicine, Rotation Student
+description: Boston University School of Medicine, PhD Student
 importance: 1
 category: research
 ---
 
 **Dr. Jean-Pierre Roussarie**, May 2022 - Present
 
-I worked as a summer rotation student in the Roussarie Lab at Boston University School of Medicine. My project focuses on the development of an *in vitro* culture system to model ECII (entorhinal cortex layer II) neurons. Additionally, we began preliminary investigations into recapitulating patient-derived mutations and clinical phenotypes in iPSC-derived neurons, to examine potential changes over the course of neurodegeneration.
+I am a current PhD student in the Roussarie Lab at Boston University School of Medicine. I am continuing my rotation project in developing an *in vitro* system to model ECII neurons - broadly speaking, we are working to differentiate both iPSCs and fibroblasts to generic cortical neurons and ECII neurons. Other areas we are exploring include differentially expressed genes in ECII, protein interactions driving sensitivity to tau pathology, and inherent characteristics of ECII neurons that determine the vulnerability of ECII neurons in Alzheimer's disease.
+
+Rotation, Summer 2022: My rotation project focused on the development of an *in vitro* culture system to model ECII (entorhinal cortex layer II) neurons. Additionally, we began preliminary investigations into recapitulating patient-derived mutations and clinical phenotypes in iPSC-derived neurons, to examine potential changes over the course of neurodegeneration.
 
 
 ### Awards
