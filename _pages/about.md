@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: she/her • <a href="https://bit.ly/irenafeng-CV">CV</a> // <a href="https://www.bumc.bu.edu/mdphd">BUSM MD-PhD</a> 
+subtitle: she/her • <a href="https://bit.ly/irenafeng-CV">CV</a> // <a href="https://www.bumc.bu.edu/mdphd">BUSM MD-PhD</a> • <a href="https://www.bumc.bu.edu/anatneuro/">Anatomy & Neurobiology</a> • <a href="https://www.bumc.bu.edu/anatneuro/roussarie-lab/">Roussarie Lab</a>
 
 profile:
   align: right
